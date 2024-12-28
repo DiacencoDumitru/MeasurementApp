@@ -1,4 +1,4 @@
-package springcourse.practice.FirstRestApp;
+package springcourse.practice;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class FirstRestAppApplication {
+public class Project3 {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstRestAppApplication.class, args);
+		SpringApplication.run(Project3.class, args);
 	}
 
 	@Bean

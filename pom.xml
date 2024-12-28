@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>springcourse.practice</groupId>
-	<artifactId>FirstRestApp</artifactId>
+	<artifactId>RESTProject3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FirstRestApp</name>
 	<description>First REST Application</description>
